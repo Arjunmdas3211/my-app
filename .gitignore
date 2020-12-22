@@ -7,9 +7,9 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
-node_modules
-yarn.lock
+*.lock
 .idea
+package-lock.json
 
 web-build/
 
